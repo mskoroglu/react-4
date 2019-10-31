@@ -1,8 +1,8 @@
 {
   "name": "react-4",
-  "version": "1.0.0",
-  "description": "react-4 library",
-  "author": "mskoroglu",
+  "version": "0.1.1",
+  "description": "A React component to create loops.",
+  "author": "Mustafa Köroğlu",
   "license": "MIT",
   "repository": "mskoroglu/react-4",
   "main": "dist/index.js",
@@ -57,5 +57,15 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "jsx",
+    "component",
+    "loop",
+    "iterator",
+    "repeat",
+    "range",
+    "for-each"
   ]
 }

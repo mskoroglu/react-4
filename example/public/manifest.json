@@ -1,6 +1,6 @@
 {
   "short_name": "react-4",
-  "name": "react-4",
+  "name": "react-4 example",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
